@@ -22,7 +22,7 @@ Aqui estão algumas das linguagens de programação com as quais tenho experiên
 
 ## Contato
 
-Você pode me encontrar em [LinkedIn](www.linkedin.com/in/pedro-igor-torres-luz) ou me enviar um e-mail para [pedro.igor.pitl@gmail.com](mailto:pedro.igor.pitl@gmail.com).
+Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/pedro-igor-torres-luz) ou me enviar um e-mail para [pedro.igor.pitl@gmail.com](mailto:pedro.igor.pitl@gmail.com).
 
 Obrigado por visitar meu perfil! 🚀
 
