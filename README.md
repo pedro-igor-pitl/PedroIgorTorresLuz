@@ -1,6 +1,6 @@
 # Olá, Me chamo Pedro Igor! 👋
 
-## Um pouco Sobre Mim
+## Um pouco Sobre Mim 📝
 
 🇧🇷 **Brasileiro**  
 🎂 **Idade:** 19  
